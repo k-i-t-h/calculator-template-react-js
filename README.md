@@ -2,7 +2,7 @@
 Out of the box are only aesthetics such as pressing button effects, hovering effects and sizing which is fit for 400px device-width. The functional logic parts/components/hooks arent coded in yet and could be used to practice. Feel free to clone this repo.
 
 
-![](calculator-shell.gif)
+                                              ![](calculator-shell.gif)
 
 
 **************************************************************************************************************************
